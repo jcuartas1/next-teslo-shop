@@ -6,7 +6,7 @@ import { FullScreenLoading } from '../../components/ui';
 import { ProductList } from '../../components/products';
 import { NextPage } from 'next';
 
-
+/* eslint-disable */
 
 const kidPage: NextPage = () => {
 

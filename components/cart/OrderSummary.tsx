@@ -10,6 +10,8 @@ interface Props {
   order?: IOrder
 }
 
+/* eslint-disable */
+
 export const OrderSummary:NextPage<Props> = ({ order }) => {
 
   let numberOfItemsGlobal = 0;
